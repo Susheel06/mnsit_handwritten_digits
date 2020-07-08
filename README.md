@@ -1,6 +1,6 @@
 # Multiclass classification of MNIST handwritten digits using tensorflow
 #### Lib: Tensorflow 2.0
-<br/>
+
 ### Architecture:
 <br/>Input size = 28, 28, 1
 <br/>No. of Hidden layer = 2
