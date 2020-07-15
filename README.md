@@ -3,8 +3,8 @@
 
 ### Architecture:
 <br/>Input size = 28, 28, 1
-<br/>No. of Hidden layer = 2
-<br/>Hidden layer size = [100, 150]
+<br/>No. of Hidden layer = 1
+<br/>Hidden layer size = [150]
 <br/>No. of output class = 10 (Digits 0-9)
 <br/>
 <br/>Optimizer = stochastic gradient descent[learning rate = 0.01; momentum = 0.9]
